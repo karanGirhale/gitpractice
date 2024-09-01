@@ -13,6 +13,8 @@
 5) git commit -a-m "message"-- → This will only be used for those file who are the already a part of your git.
 
 6) Commands for github repository to push data perform the given commands for the first time only
+
+## use below commands for only once when pushing data for the first time
 * git branch -M main
 • git remote add origin https://github.com/RicArora1991/batch20.git
 * git push -u origin main
