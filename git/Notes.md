@@ -21,3 +21,18 @@
 * After this to uplode or push the data in the Github reprository always used this commands.
 
 7) git commit -a -m "message"
+
+8) after using above commands for rpo/folder u need to use given command to upload data every time
+git push
+
+### 
+        git remote -v
+        git remote
+        git log
+        git remote rm origin2
+        git rm --cached < file name >
+        git rm < file name >
+        creation of gitignore
+        git mv < old file name > < new file name >
+        git clone
+        fork
