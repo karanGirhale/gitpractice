@@ -17,3 +17,5 @@
 • git remote add origin https://github.com/RicArora1991/batch20.git
 * git push -u origin main
 * After this to uplode or push the data in the Github reprository always used this commands.
+
+7) git commit -a -m "message"
